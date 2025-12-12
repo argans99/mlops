@@ -28,9 +28,9 @@ az extension add -n ml -y
 ## For backward compatibility - running on old subscription
 # <set_variables>
 #RESOURCE_GROUP_NAME="cloudml"
-GROUP="default_group"
+GROUP="default_resource_group"
 LOCATION="eastus"
-WORKSPACE="GL-MLworkspace-az-august"
+WORKSPACE="Alex_Worspace"
 # </set_variables>
 
 
